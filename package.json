@@ -1,0 +1,17 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "simple bookstore app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "package.json": "^2.0.1"
+  },
+  "author": "KAY",
+  "license": "ISC"
+}
